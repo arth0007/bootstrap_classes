@@ -41,25 +41,26 @@ other
 <div class="col-1"> column </div>
 so on.....
 
-#col-xl 
+#col-xl- 
 extra large
 if the size of viewport less than extra large then every column will take full width
+like
+<div class="col-xl-6"> column </div>
+<div class="col-xl-6"> column </div>
 
-#col-lg
+#col-lg-
 large
 if the size of viewport less than large then every column will take full width
 
-#col-md
+#col-md-
 medium
 if the size of viewport less than medium then every column will take full width
 
-#col-sm
+#col-sm-
 small
 if the size of viewport less than  small then every column will take full width
 
-#col-
-extra small
-if the size of viewport less than extra small then every column will take full width
+
 
 
 
