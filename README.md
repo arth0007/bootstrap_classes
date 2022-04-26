@@ -51,14 +51,23 @@ like
 #col-lg-
 large
 if the size of viewport less than large then every column will take full width
+like
+<div class="col-lg-6"> column </div>
+<div class="col-lg-6"> column </div>
 
 #col-md-
 medium
 if the size of viewport less than medium then every column will take full width
+like
+<div class="col-md-6"> column </div>
+<div class="col-md-6"> column </div>
 
 #col-sm-
 small
 if the size of viewport less than  small then every column will take full width
+like
+<div class="col-sm-6"> column </div>
+<div class="col-sm-6"> column </div>
 
 
 
